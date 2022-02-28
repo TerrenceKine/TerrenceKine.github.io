@@ -2,21 +2,21 @@
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Week 1
+**Week 1**
 
 - mempelajari apa itu python
 - memepelajari dasar komputasi
 - mempelajari knowledge yang dibagi 2, yaitu declarative dan imperative
 
 
-Week 2
+**Week 2**
 
 - mempelajari jenis objek yang ada di python
 - mempelajari apa itu variable dan contohnya
 - mempelajari string operator, method 
 
 
-Week 3
+**Week 3**
 
 - mempelajari loop yang dibedakan menjadi 2, while dan for
 - mempelajari error yang umum terjadi
@@ -38,7 +38,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![https://ibb.co/txrTdrx](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
