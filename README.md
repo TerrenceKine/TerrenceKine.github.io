@@ -2,11 +2,26 @@
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-Day 1
+Week 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- mempelajari apa itu python
+- memepelajari dasar komputasi
+- mempelajari knowledge yang dibagi 2, yaitu declarative dan imperative
 
-Day 2
+
+Week 2
+
+- mempelajari jenis objek yang ada di python
+- mempelajari apa itu variable dan contohnya
+- mempelajari string operator, method 
+
+
+Week 3
+
+- mempelajari loop yang dibedakan menjadi 2, while dan for
+- mempelajari error yang umum terjadi
+- mempelelajari if, elif, else
+
 
 ```markdown
 Syntax highlighted code block
