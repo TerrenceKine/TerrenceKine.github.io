@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## ようこそ ようこそ! Welcome to My Github Pages
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+this page is for homework only.
 
 **Week 1**
 
@@ -38,5 +38,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![https://ibb.co/txrTdrx](src)
+[Link](url) and ![image](src)
 ```
