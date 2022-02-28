@@ -20,7 +20,7 @@ Week 3
 
 - mempelajari loop yang dibedakan menjadi 2, while dan for
 - mempelajari error yang umum terjadi
-- mempelelajari if, elif, else
+- mempelajari if, elif, else
 
 
 ```markdown
